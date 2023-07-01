@@ -37,7 +37,7 @@ If you need to connect the module to a computer, you can use a USB to I2C adapte
 
 ### Availability
 
-The module is manufactured and sold by [Universal Scientific Technologies s.r.o.](www.ust.cz), which is the official manufacturer and seller of MLAB modules. The module is standardly produced with the SHT31, but other sensors from the SHT3x series can be fitted on request. For information on the availability and price of the module, write a request to info@ust.cz.
+The module is manufactured and sold by [Universal Scientific Technologies s.r.o.](https://www.ust.cz), which is the official manufacturer and seller of MLAB modules. The module is standardly produced with the SHT31, but other sensors from the SHT3x series can be fitted on request. For information on the availability and price of the module, write a request to info@ust.cz.
 
 ### SHT3x Series Sensors Comparison
 
