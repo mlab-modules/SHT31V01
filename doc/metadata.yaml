@@ -1,14 +1,27 @@
-description: null
+description: 'High precission SHT3x hygrometer (humidity and temperature sensor) in
+  form of MLAB module. '
 github_branch: SHT31V01A
 github_repo: SHT31V01
 github_url: https://github.com/mlab-modules/SHT31V01
 homepage: false
 images:
-- doc/img/SHT31V01A_top_small.jpg
 - doc/img/SHT31V01A_top_big.jpg
+- doc/img/SHT31V01A_top_small.jpg
+- doc/img/SHT31V01A_QRcode.png
 - doc/src/SHPG.png
 - doc/src/THPG.png
-- doc/img/SHT31V01A_QRcode.png
 mark: 50
-tags: []
+tags:
+- climate
+- humidity
+- hygrometer
+- i2c
+- i2c-sensors
+- mlab
+- mlab-sensor
+- sensirion
+- sht31
+- sht3x
+- temperature
+- mlab-module
 title: SHT31V01
