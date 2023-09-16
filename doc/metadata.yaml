@@ -11,7 +11,7 @@ images:
 - doc/src/THPG.png
 - doc/img/SHT31V01A_QRcode.png
 mark: 50
-status: 0
+status: 2
 tags:
 - climate
 - humidity
