@@ -5,11 +5,11 @@ github_repo: SHT31V01
 github_url: https://github.com/mlab-modules/SHT31V01
 homepage: false
 images:
-- doc/img/SHT31V01A_top_small.jpg
 - doc/img/SHT31V01A_top_big.jpg
-- doc/img/SHT31V01A_QRcode.png
+- doc/img/SHT31V01A_top_small.jpg
 - doc/src/SHPG.png
 - doc/src/THPG.png
+- doc/img/SHT31V01A_QRcode.png
 mark: 50
 status: 0
 tags:
